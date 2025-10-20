@@ -1,1 +1,1 @@
-# dike-protocol
+# Dike
